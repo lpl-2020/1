@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://rtmpstream-inct.streaming.media.azure.net/ed0834e2-b9f7-4b1f-8ec0-563d10de9cfe/858a74db-8223-447b-9ba5-f06dce142ecc.ism/QualityLevels(800000)/Manifest(video,format=m3u8-aapl)
