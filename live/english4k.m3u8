@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://hls.ustreamix.com/Sky-Sports-Cricket.m3u8?token=501-0a4-ef7-1ff-b9c-d83-816-336-9e9-c27-c2d-ce5-a35-5d4-189-213-6c0-539-fb0-a91-172-1&oauth=c3Q9MTYwMjY4MDcwOX5leHA9MTYwMjY4MTcwOX5hY2w9LypobWFjPTEzNWFkYzAzMDU5ZDI2ODFjNjdmMDMwMjcyNzQ2MTU0YTgwNjRmMmFkOTFmY2I5NDIzYmJlYzRiOTUxYWU2MzA=
+http://khulnalive.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
